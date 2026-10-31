@@ -14,6 +14,7 @@ visited recently.
 - Opportunity pipeline (new analyzers, added assays)
 - Training records and complaint tracking
 - Automatic reminders for customers not visited in 30+ days
+- Daily, weekly, monthly, and yearly visit and sales reports
   
 
 ## Tech Stack
@@ -32,8 +33,11 @@ foreign keys, cascading deletes, and row-level security enabled.
 6. Run `npm install` then `npm run dev`
 
 ## Screenshots
+## DASHBOARD
 <img width="1878" height="895" alt="APP DASHBOARD" src="https://github.com/user-attachments/assets/4b3ec3f6-dd1a-4f1b-8c2e-1b7b3f532c01" />
+## CUSTOMERS
 <img width="1889" height="886" alt="Screenshot 2026-10-31 163402" src="https://github.com/user-attachments/assets/fe8182d7-418d-4e1c-91eb-cfbeb7b392ae" />
+## VISITS
 <img width="1887" height="901" alt="image" src="https://github.com/user-attachments/assets/7ed7d445-9006-436f-9642-92c5ce4b2014" />
 
 
@@ -42,11 +46,12 @@ foreign keys, cascading deletes, and row-level security enabled.
 ## Security Notes
 - Secrets are kept in `.env`, which is excluded from Git
 - Row Level Security is enabled on all tables
-- sign-ups are disabled
+- Public sign-ups are disabled
 
 ## Roadmap
-- Reports and analytics
-- Per-user data ownership policies
+- Per-user data ownership policies (currently single-user, with sign-ups disabled)
+- Export reports to PDF/Excel
+- Mobile-friendly improvements
 
 ## Built With AI Assistance
 Designed and tested by me, with code developed using ChatGPT and Claude.
