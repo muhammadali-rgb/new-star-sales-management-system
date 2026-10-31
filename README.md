@@ -14,7 +14,7 @@ visited recently.
 - Opportunity pipeline (new analyzers, added assays)
 - Training records and complaint tracking
 - Automatic reminders for customers not visited in 30+ days
-- [Daily / weekly / monthly / yearly reports: add only when built]
+  
 
 ## Tech Stack
 React, Vite, JavaScript, Supabase (PostgreSQL, Auth, Row Level Security)
@@ -42,7 +42,7 @@ foreign keys, cascading deletes, and row-level security enabled.
 ## Security Notes
 - Secrets are kept in `.env`, which is excluded from Git
 - Row Level Security is enabled on all tables
-- [Mention if sign-ups are disabled, or that per-user policies are planned]
+- 
 
 ## Roadmap
 - Reports and analytics
