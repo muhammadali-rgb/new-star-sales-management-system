@@ -32,7 +32,12 @@ foreign keys, cascading deletes, and row-level security enabled.
 6. Run `npm install` then `npm run dev`
 
 ## Screenshots
-[Add 2-3 screenshots here, using fake data only]
+<img width="1878" height="895" alt="APP DASHBOARD" src="https://github.com/user-attachments/assets/4b3ec3f6-dd1a-4f1b-8c2e-1b7b3f532c01" />
+<img width="1889" height="886" alt="Screenshot 2026-10-31 163402" src="https://github.com/user-attachments/assets/fe8182d7-418d-4e1c-91eb-cfbeb7b392ae" />
+<img width="1887" height="901" alt="image" src="https://github.com/user-attachments/assets/7ed7d445-9006-436f-9642-92c5ce4b2014" />
+
+
+
 
 ## Security Notes
 - Secrets are kept in `.env`, which is excluded from Git
