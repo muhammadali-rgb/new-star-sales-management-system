@@ -1,9 +1,10 @@
 # Sales & Visit Tracker
 
-A web app I built to manage daily work as a Sales and Application Specialist
-in the medical diagnostics field. It tracks customer visits, orders, and sales
-opportunities, and reminds me to follow up with customers who haven't been
-visited recently.
+A portfolio project: a full-stack web app that simulates the workflow of a
+sales and application specialist in the medical diagnostics field. It tracks
+customer visits, orders, analyzers, and sales opportunities, and reminds the
+user to follow up with customers who haven't been visited recently.
+All data in the app is fictional.
 
 ## Features
 - Secure login with Supabase Authentication
