@@ -2,7 +2,7 @@
 
 A web app I built to manage daily work as a Sales and Application Specialist
 in the medical diagnostics field. It tracks customer visits, orders, and sales
-opportunities, and reminds to follow up with customers who haven't been
+opportunities, and reminds me to follow up with customers who haven't been
 visited recently.
 
 ## Features
@@ -15,7 +15,6 @@ visited recently.
 - Training records and complaint tracking
 - Automatic reminders for customers not visited in 30+ days
 - Daily, weekly, monthly, and yearly visit and sales reports
-  
 
 ## Tech Stack
 React, Vite, JavaScript, Supabase (PostgreSQL, Auth, Row Level Security)
@@ -33,12 +32,15 @@ foreign keys, cascading deletes, and row-level security enabled.
 6. Run `npm install` then `npm run dev`
 
 ## Screenshots
-## DASHBOARD
+### DASHBOARD
 <img width="1878" height="895" alt="APP DASHBOARD" src="https://github.com/user-attachments/assets/4b3ec3f6-dd1a-4f1b-8c2e-1b7b3f532c01" />
-## CUSTOMERS
+
+### CUSTOMERS
 <img width="1889" height="886" alt="Screenshot 2026-10-31 163402" src="https://github.com/user-attachments/assets/fe8182d7-418d-4e1c-91eb-cfbeb7b392ae" />
-## VISITS
-<img width="1887" height="901" alt="image" src="https://github.com/user-attachments/assets/7ed7d445-9006-436f-9642-92c5ce4b2014" />
+
+### REPORTS
+<img width="1631" height="912" alt="image" src="https://github.com/user-attachments/assets/aacfc928-4c42-4ee7-8f58-6b9208459d7c" />
+
 
 
 
