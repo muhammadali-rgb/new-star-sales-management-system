@@ -1,8 +1,8 @@
 # Sales & Visit Tracker
 
-A web app I built to manage my daily work as a Sales and Application Specialist
+A web app I built to manage daily work as a Sales and Application Specialist
 in the medical diagnostics field. It tracks customer visits, orders, and sales
-opportunities, and reminds me to follow up with customers who haven't been
+opportunities, and reminds to follow up with customers who haven't been
 visited recently.
 
 ## Features
@@ -42,7 +42,7 @@ foreign keys, cascading deletes, and row-level security enabled.
 ## Security Notes
 - Secrets are kept in `.env`, which is excluded from Git
 - Row Level Security is enabled on all tables
-- 
+- sign-ups are disabled
 
 ## Roadmap
 - Reports and analytics
